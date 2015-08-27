@@ -48,4 +48,12 @@ permalink: /projects/
       <h4>BernRate.com</h4>
     </a>
   </li>
+  <li>
+    <a href="/projects/calling-tool">
+      <div class="img-wrapper">
+        <img src="/img/calling-tool.png" alt="Calling Tool" />
+      </div>
+      <h4>Calling Tool</h4>
+    </a>
+  </li>
 </ul>
