@@ -11,3 +11,29 @@ We originally began organizing on Reddit at [/r/codersforsanders](https://www.re
 We are cross-platform and cross-interest - a cross-section of the technology community using the biggest and best tools and technologies to create web applications, mobile applications, and digital content. We are volunteers, united in our belief that America needs the progressive ideals espoused by Bernie Sanders to restore justice, equality, and prosperity to our country.
 
 <h3>Featured Projects</h3>
+<ul class="projects">
+  <li>
+    <a href="/projects/donate-app">
+      <div class="img-wrapper">
+        <img src="/img/donate-app.png" alt="Donate App" />
+      </div>
+      <h4>Donate App</h4>
+    </a>
+  </li>
+  <li>
+    <a href="/projects/wordpress-multisite">
+      <div class="img-wrapper">
+        <img src="/img/wordpress-multisite.png" alt="Wordpress Multisite" />
+      </div>
+      <h4>Wordpress Multisite</h4>
+    </a>
+  </li>
+  <li>
+    <a href="/projects/event-map">
+      <div class="img-wrapper">
+        <img src="/img/event-map.png" alt="Event Map" />
+      </div>
+      <h4>Event Map</h4>
+    </a>
+  </li>
+</ul>
