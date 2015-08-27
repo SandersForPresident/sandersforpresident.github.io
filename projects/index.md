@@ -56,4 +56,12 @@ permalink: /projects/
       <h4>Calling Tool</h4>
     </a>
   </li>
+  <li>
+    <a href="/projects/berniestrap">
+      <div class="img-wrapper">
+        <img src="/img/berniestrap.png" alt="BernieStrap" />
+      </div>
+      <h4>BernieStrap</h4>
+    </a>
+  </li>
 </ul>

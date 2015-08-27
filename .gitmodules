@@ -1,4 +1,4 @@
 [submodule "bootstrap"]
 	path = bootstrap
-	url = git@github.com:SandersForPresident/bootstrap.git
+	url = https://github.com/SandersForPresident/bootstrap.git
   branch = gh-pages
