@@ -27,9 +27,25 @@ permalink: /projects/
   <li>
     <a href="/projects/event-map">
       <div class="img-wrapper">
-        <img src="/img/event-map.png" alt="Event Map" />
+        <img src="/img/event-map.png" alt="Bernie2016Events.org" />
       </div>
-      <h4>Event Map</h4>
+      <h4>Bernie 2016 Events</h4>
+    </a>
+  </li>
+  <li>
+    <a href="/projects/feelthebern">
+      <div class="img-wrapper">
+        <img src="/img/feelthebern.png" alt="FeelTheBern.org" />
+      </div>
+      <h4>FeelTheBern.org</h4>
+    </a>
+  </li>
+  <li>
+    <a href="/projects/bernrate">
+      <div class="img-wrapper">
+        <img src="/img/bernrate.png" alt="BernRate.com" />
+      </div>
+      <h4>BernRate.com</h4>
     </a>
   </li>
 </ul>

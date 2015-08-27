@@ -11,7 +11,7 @@ ul.projects li {
   text-align: center;
   float: left;
 
-  &:last-child {
+  &:nth-child(3n+3) {
     margin-right: 0px;
   }
 
