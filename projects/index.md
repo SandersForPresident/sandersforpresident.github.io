@@ -57,6 +57,14 @@ permalink: /projects/
     </a>
   </li>
   <li>
+    <a href="/projects/signup-app">
+      <div class="img-wrapper">
+        <img src="/img/signup-app.png" alt="Signup App" />
+      </div>
+      <h4>Signup App</h4>
+    </a>
+  </li>
+  <li>
     <a href="/projects/berniestrap">
       <div class="img-wrapper">
         <img src="/img/berniestrap.png" alt="BernieStrap" />
