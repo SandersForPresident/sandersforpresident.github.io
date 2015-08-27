@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bernie 2016 Events
-permalink: /projects/event-map/
+permalink: /projects/Bernie2016Events/
 ---
 
 <img src="/img/event-map.png" alt="Event Map" />

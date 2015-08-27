@@ -29,11 +29,11 @@ We are cross-platform and cross-interest - a cross-section of the technology com
     </a>
   </li>
   <li>
-    <a href="/projects/event-map">
+    <a href="/projects/Bernie2016Events">
       <div class="img-wrapper">
-        <img src="/img/event-map.png" alt="Event Map" />
+        <img src="/img/event-map.png" alt="Bernie 2016 Events" />
       </div>
-      <h4>Event Map</h4>
+      <h4>Bernie 2016 Events</h4>
     </a>
   </li>
 </ul>
