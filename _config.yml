@@ -1,0 +1,13 @@
+# Site settings
+title: CodersForSanders
+email: coders@forsanders.com
+description: 'A loose collective of developers, designers, and creatives working to elect Bernie Sanders for President.'
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://coders.forsanders.com"
+twitter_username: CodersForSanders
+github_username:  CodersForSanders
+
+# Build settings
+markdown: kramdown
+gems:
+- jekyll-sitemap
