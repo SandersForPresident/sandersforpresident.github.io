@@ -5,8 +5,8 @@ description: 'A loose collective of developers, designers, and creatives working
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://coders.forsanders.com"
 permalink: pretty
-twitter_username: CodersForSanders
-github_username:  CodersForSanders
+twitter_username: Coders4Sanders
+github_username:  SandersForPresident
 
 # Build settings
 markdown: kramdown
