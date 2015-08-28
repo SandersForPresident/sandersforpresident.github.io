@@ -72,4 +72,12 @@ permalink: /projects/
       <h4>BernieStrap</h4>
     </a>
   </li>
+  <li>
+    <a href="/projects/bernie-selfie">
+      <div class="img-wrapper">
+        <img src="/img/bernie-selfie.png" alt="BernieSelfie" />
+      </div>
+      <h4>BernieSelfie</h4>
+    </a>
+  </li>
 </ul>
