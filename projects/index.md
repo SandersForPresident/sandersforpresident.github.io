@@ -80,4 +80,12 @@ permalink: /projects/
       <h4>BernieSelfie</h4>
     </a>
   </li>
+  <li>
+    <a href="/projects/DebateWithBernie">
+      <div class="img-wrapper">
+        <img src="/img/debatewithbernie.png" alt="#DebateWithBernie" />
+      </div>
+      <h4>#DebateWithBernie</h4>
+    </a>
+  </li>
 </ul>
