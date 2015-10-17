@@ -9,22 +9,6 @@ permalink: /projects/
 </p>
 <ul class="projects">
   <li>
-    <a href="/projects/donate-app">
-      <div class="img-wrapper">
-        <img src="/img/donate-app.png" alt="Donate App" />
-      </div>
-      <h4>Donate App</h4>
-    </a>
-  </li>
-  <li>
-    <a href="/projects/wordpress-multisite">
-      <div class="img-wrapper">
-        <img src="/img/wordpress-multisite.png" alt="Wordpress Multisite" />
-      </div>
-      <h4>Wordpress Multisite</h4>
-    </a>
-  </li>
-  <li>
     <a href="/projects/Bernie2016Events">
       <div class="img-wrapper">
         <img src="/img/event-map.png" alt="Bernie2016Events.org" />
@@ -33,11 +17,27 @@ permalink: /projects/
     </a>
   </li>
   <li>
-    <a href="/projects/FeelTheBern">
+    <a href="/projects/bernie-qr">
       <div class="img-wrapper">
-        <img src="/img/feelthebern.png" alt="FeelTheBern.org" />
+        <img src="/img/bernie-qr.png" alt="Bernie QR" />
       </div>
-      <h4>FeelTheBern.org</h4>
+      <h4>Bernie QR</h4>
+    </a>
+  </li>
+  <li>
+    <a href="/projects/bernie-selfie">
+      <div class="img-wrapper">
+        <img src="/img/bernie-selfie.png" alt="BernieSelfie" />
+      </div>
+      <h4>BernieSelfie</h4>
+    </a>
+  </li>
+  <li>
+    <a href="/projects/berniestrap">
+      <div class="img-wrapper">
+        <img src="/img/berniestrap.png" alt="BernieStrap" />
+      </div>
+      <h4>BernieStrap</h4>
     </a>
   </li>
   <li>
@@ -57,27 +57,11 @@ permalink: /projects/
     </a>
   </li>
   <li>
-    <a href="/projects/signup-app">
+    <a href="/projects/connect-with-bernie">
       <div class="img-wrapper">
-        <img src="/img/signup-app.png" alt="Signup App" />
+        <img src="/img/connectwithbernie.png" alt="Connect with Bernie" />
       </div>
-      <h4>Signup App</h4>
-    </a>
-  </li>
-  <li>
-    <a href="/projects/berniestrap">
-      <div class="img-wrapper">
-        <img src="/img/berniestrap.png" alt="BernieStrap" />
-      </div>
-      <h4>BernieStrap</h4>
-    </a>
-  </li>
-  <li>
-    <a href="/projects/bernie-selfie">
-      <div class="img-wrapper">
-        <img src="/img/bernie-selfie.png" alt="BernieSelfie" />
-      </div>
-      <h4>BernieSelfie</h4>
+      <h4>Connect with Bernie</h4>
     </a>
   </li>
   <li>
@@ -86,6 +70,38 @@ permalink: /projects/
         <img src="/img/debatewithbernie.png" alt="#DebateWithBernie" />
       </div>
       <h4>#DebateWithBernie</h4>
+    </a>
+  </li>
+  <li>
+    <a href="/projects/donate-app">
+      <div class="img-wrapper">
+        <img src="/img/donate-app.png" alt="Donate App" />
+      </div>
+      <h4>Donate App</h4>
+    </a>
+  </li>
+  <li>
+    <a href="/projects/FeelTheBern">
+      <div class="img-wrapper">
+        <img src="/img/feelthebern.png" alt="FeelTheBern.org" />
+      </div>
+      <h4>FeelTheBern.org</h4>
+    </a>
+  </li>
+  <li>
+    <a href="/projects/signup-app">
+      <div class="img-wrapper">
+        <img src="/img/signup-app.png" alt="Signup App" />
+      </div>
+      <h4>Signup App</h4>
+    </a>
+  </li>
+  <li>
+    <a href="/projects/wordpress-multisite">
+      <div class="img-wrapper">
+        <img src="/img/wordpress-multisite.png" alt="Wordpress Multisite" />
+      </div>
+      <h4>Wordpress Multisite</h4>
     </a>
   </li>
 </ul>

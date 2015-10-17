@@ -13,27 +13,27 @@ We are cross-platform and cross-interest - a cross-section of the technology com
 <h3>Featured Projects</h3>
 <ul class="projects">
   <li>
-    <a href="/projects/donate-app">
+    <a href="/projects/connect-with-bernie">
       <div class="img-wrapper">
-        <img src="/img/donate-app.png" alt="Donate App" />
+        <img src="/img/connectwithbernie.png" alt="Connect with Bernie" />
       </div>
-      <h4>Donate App</h4>
+      <h4>Connect with Bernie</h4>
     </a>
   </li>
   <li>
-    <a href="/projects/wordpress-multisite">
+    <a href="/projects/FeelTheBern">
       <div class="img-wrapper">
-        <img src="/img/wordpress-multisite.png" alt="Wordpress Multisite" />
+        <img src="/img/feelthebern.png" alt="FeelTheBern.org" />
       </div>
-      <h4>Wordpress Multisite</h4>
+      <h4>FeelTheBern.org</h4>
     </a>
   </li>
   <li>
-    <a href="/projects/Bernie2016Events">
+    <a href="/projects/bernie-qr">
       <div class="img-wrapper">
-        <img src="/img/event-map.png" alt="Bernie 2016 Events" />
+        <img src="/img/bernie-qr.png" alt="Bernie QR" />
       </div>
-      <h4>Bernie 2016 Events</h4>
+      <h4>Bernie QR</h4>
     </a>
   </li>
 </ul>
