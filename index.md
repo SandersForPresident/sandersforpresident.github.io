@@ -2,6 +2,19 @@
 layout: page
 title: Coders For Sanders
 permalink: /
+featured_pages:
+  - name: Connect with Bernie
+    alt: connect.berniesanders.com
+    url: connect-with-bernie
+    img: connectwithbernie
+  - name: FeelTheBern.org
+    alt: FeelTheBern.org
+    url: FeelTheBern
+    img: feelthebern
+  - name: Bernie QR
+    alt: Bernie QR
+    url: bernie-qr
+    img: bernie-qr
 ---
 
 Coders For Sanders is a loose collective of developers, designers, and creatives working to elect Bernie Sanders for President.
@@ -12,28 +25,14 @@ We are cross-platform and cross-interest - a cross-section of the technology com
 
 <h3>Featured Projects</h3>
 <ul class="projects">
-  <li>
-    <a href="/projects/connect-with-bernie">
-      <div class="img-wrapper">
-        <img src="/img/connectwithbernie.png" alt="Connect with Bernie" />
-      </div>
-      <h4>Connect with Bernie</h4>
-    </a>
-  </li>
-  <li>
-    <a href="/projects/FeelTheBern">
-      <div class="img-wrapper">
-        <img src="/img/feelthebern.png" alt="FeelTheBern.org" />
-      </div>
-      <h4>FeelTheBern.org</h4>
-    </a>
-  </li>
-  <li>
-    <a href="/projects/bernie-qr">
-      <div class="img-wrapper">
-        <img src="/img/bernie-qr.png" alt="Bernie QR" />
-      </div>
-      <h4>Bernie QR</h4>
-    </a>
-  </li>
+  {% for page in page.featured_pages %}
+    <li>
+      <a href="/projects/{{ page.url }}">
+        <div class="img-wrapper">
+          <img src="/img/thumbs/{{ page.img }}.png" alt="{{ page.alt }}" />
+        </div>
+        <h4>{{ page.name }}</h4>
+      </a>
+    </li>
+  {% endfor %}
 </ul>
