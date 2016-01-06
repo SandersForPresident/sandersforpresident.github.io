@@ -15,6 +15,18 @@ featured_pages:
     alt: Bernie QR
     url: bernie-qr
     img: bernie-qr
+  - name: Field the Bern
+    alt: Field the Bern
+    url: field-the-bern
+    img: field-the-bern
+  - name: Bernie BNB
+    alt: Bernie BNB
+    url: bernie-bnb
+    img: bernie-bnb
+  - name: Bernie 2016 Events
+    alt: Bernie 2016 Events
+    url: Bernie2016Events
+    img: event-map
 ---
 
 Coders For Sanders is a loose collective of developers, designers, and creatives working to elect Bernie Sanders for President.
