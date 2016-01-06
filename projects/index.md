@@ -7,6 +7,10 @@ pages:
     alt: Bernie2016Events.org
     url: Bernie2016Events
     img: event-map
+  - name: Bernie BNB
+    alt: Bernie BNB
+    url: bernie-bnb
+    img: bernie-bnb
   - name: Bernie QR
     alt: Bernie QR
     url: bernie-qr
@@ -43,6 +47,10 @@ pages:
     alt: FeelTheBern.org
     url: FeelTheBern
     img: feelthebern
+  - name: Field the Bern
+    alt: Field the Bern
+    url: field-the-bern
+    img: field-the-bern
   - name: Signup App
     alt: Signup App
     url: signup-app
