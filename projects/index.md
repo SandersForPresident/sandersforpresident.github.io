@@ -11,6 +11,10 @@ pages:
     alt: Bernie BNB
     url: bernie-bnb
     img: bernie-bnb
+  - name: Bernie's Bills
+    alt: Bernie's Bills
+    url: bernies-bills
+    img: bernies-bills
   - name: Bernie QR
     alt: Bernie QR
     url: bernie-qr
