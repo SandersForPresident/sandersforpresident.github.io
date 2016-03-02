@@ -11,6 +11,10 @@ featured_pages:
     alt: FeelTheBern.org
     url: FeelTheBern
     img: feelthebern
+  - name: Bernie's Bills
+    alt: Bernie's Bills
+    url: bernies-bills
+    img: bernies-bills
   - name: Bernie QR
     alt: Bernie QR
     url: bernie-qr
