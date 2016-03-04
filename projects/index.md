@@ -29,7 +29,7 @@ pages:
     img: berniestrap
   - name: BernRate
     alt: BernRate.com
-    url: bernrate
+    url: BernRate
     img: bernrate
   - name: Calling Tool
     alt: Calling Tool
